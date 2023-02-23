@@ -1,0 +1,24 @@
+{
+  "name": "entry-web-scrape",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/czcarrizales/entry-web-scrape.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/czcarrizales/entry-web-scrape/issues"
+  },
+  "homepage": "https://github.com/czcarrizales/entry-web-scrape#readme",
+  "dependencies": {
+    "puppeteer": "^19.7.2"
+  }
+}
